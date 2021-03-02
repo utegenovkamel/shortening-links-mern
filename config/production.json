@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "kamel links",
+    "mongoUri": "mongodb+srv://Kamel:opX1hdiTz8NZbwYn@cluster0.9evcr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
